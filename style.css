@@ -12,6 +12,7 @@ p{
   <!-- To figure out the rem, I researched a pixel to rem converter, entered in 18px, and
   received the corresponding rem number --!>
   background-color: mistyrose;
+  color: mistyrose;
   border-radius: 5px;
   border: 1px solid mediumvioletred;
   background-image: linear-gradient(to bottom right, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
