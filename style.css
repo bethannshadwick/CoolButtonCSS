@@ -4,7 +4,7 @@ html {
 
 p{
   width: 200px;
-  height: auto;
+  height: 100px;
   margin: auto;
   text-align: center;
   color: mistyrose;
@@ -16,7 +16,7 @@ p{
   border-radius: 5px;
   border: 1px solid mediumvioletred;
   background-image: linear-gradient(to bottom right, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
-  box-shadow: inset 2px 2px 5px rgba(255,255,255,0.2),
-  inset -2px -2px 5px rgba(0,0,0,0.2)
-  2px 2px 5px black;
+  box-shadow: inset 3px 3px 5px rgba(255,255,255,0.2),
+  inset -3px -3px 5px rgba(0,0,0,0.2)
+  3px 3px 5px black;
 }
