@@ -12,10 +12,10 @@ p{
   margin: auto;
   text-align: center;
   color: mistyrose;
-  background: linear-gradient(to bottom right, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
+  background: linear-gradient(to top left, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
   background-color: mistyrose;
   border: 1px solid mediumvioletred;
-  border-radius: 10px;
+  border-radius: 5px;
   box-shadow: inset 3px 3px 5px rgba(255,255,255,0.2),
   inset -3px -3px 5px rgba(0,0,0,0.2)
   3px 3px 5px black;
