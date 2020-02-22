@@ -11,9 +11,9 @@ p{
   text-align: center;
   margin: auto;
   text-align: center;
-  background-color: mistyrose;
   color: mistyrose;
   background: linear-gradient(to bottom right, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
+  background-color: mistyrose;
   border: 1px solid mediumvioletred;
   border-radius: 10px;
   box-shadow: inset 3px 3px 5px rgba(255,255,255,0.2),
