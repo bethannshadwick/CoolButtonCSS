@@ -4,7 +4,7 @@ html {
 
 p{
   width: 200px;
-  height: 100px;
+  height: auto;
   margin: auto;
   text-align: center;
   color: mistyrose;
