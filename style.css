@@ -7,6 +7,7 @@ p{
   height: auto;
   margin: auto;
   text-align: center;
+  color: mistyrose;
   font-size: 1.125rem;
   <!-- To figure out the rem, I researched a pixel to rem converter, entered in 18px, and
   received the corresponding rem number --!>
