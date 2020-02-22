@@ -11,8 +11,8 @@ p{
   font-size: 1.125rem;
   <!-- To figure out the rem, I researched a pixel to rem converter, entered in 18px, and
   received the corresponding rem number --!>
-  border-radius: 5px;
   border: 1px solid mediumvioletred;
+  border-radius: 10px;
   background-color: mistyrose;
   background-image: linear-gradient(to bottom right, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
   box-shadow: inset 3px 3px 5px rgba(255,255,255,0.2),
